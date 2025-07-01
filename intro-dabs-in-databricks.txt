@@ -2,3 +2,6 @@ This video has the details from min
 
 https://customer-academy.databricks.com/learn/courses/3489/automated-deployment-with-databricks-asset-bundles/lessons/34052/demo-continuous-integration-and-continuous-deployment-with-dabs
 from min 1 to first 4 minutes
+
+Entire video covers the complete end to end databricks bundles cicd with DABs
+
